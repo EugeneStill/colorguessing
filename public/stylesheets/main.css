@@ -40,7 +40,12 @@ h1 {
 
 #message {
 	display: inline-block;
+	text-transform: uppercase;
 	width: 20%;
+	font-weight: 700;
+	color: steelblue;
+	letter-spacing: 1px;
+	font-size: inherit;
 }
 
 #stripe {
